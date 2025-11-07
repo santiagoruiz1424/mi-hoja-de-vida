@@ -4,7 +4,7 @@ CopiarEditar
 **Nombre completo:** David Santiago Ruiz Payanene
 **Correo electrónico:** david.ruiz-p@uniminuto.edu.co
 ## Formación académica
-- Bachiller, Técnico en programacoin de software
+- Bachiller, Técnico en programación de software
 - Estudiante de Ingeniería de Sistemas en UNIMINUTO
 ## Habilidades
 - Conocimientos básicos en programación
